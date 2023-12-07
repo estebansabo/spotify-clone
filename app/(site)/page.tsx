@@ -23,7 +23,7 @@ export default function Home() {
             Newest songs
           </h1>
         </div>
-        <div>zs
+        <div>
             List of songs!
         </div>
       </div>
